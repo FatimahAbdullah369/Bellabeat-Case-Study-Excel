@@ -12,11 +12,26 @@ Analyze smart device usage data to understand how consumers use non-Bellabeat sm
 
 ## Tools Used
 * **Microsoft Excel:** Data cleaning, formatting, Pivot Tables, and chart visualizations.
+  ![Name of your chart](Merge1.png)
+  ![Name of your chart](Merge2.png)
 
-## Key Insights & Findings
-* **Daily Activity:** Users are most active between 5:00 PM and 7:00 PM, suggesting they prefer post-work workouts.
-* **Sleep Patterns:** There is a strong correlation between lower daily step counts and poor sleep quality.
-* **Sedentary Time:** On average, users spend over 12 hours a day sedentary.
+
+
+### Key Insights & Visualizations
+
+#### 1. The "Sweet Spot" for Sleep Quality (Activity vs. Sleep Analysis)
+* **Finding:** There is a non-linear relationship between daily physical activity and sleep quality. 
+* **The "Sweet Spot":** Users who maintained **moderate daily step counts** experienced the highest quality and most consistent sleep.
+* **The Extremes:** 
+  * **Sedentary Users:** Users with very low step counts struggled with poor sleep efficiency and spent more time awake in bed.
+  * **Over-Exerted Users:** Interestingly, high-intensity workouts or excessive step counts also correlated with a dip in sleep quality, likely due to over-exertion or late-night training.
+
+![Activity vs Sleep Chart here](goodwalkgoodsleep.png)
+
+*Figure 1: Excel Pivot Chart showing the correlation between daily step intervals and average minutes asleep.*
+
+![Activity vs Sleep Chart here](goodwalkgoodsleep.png)
+*Figur 2: Excel Pivot Chart showing the correlation between low step counts and poor sleep.*
 
 ## Recommendations for Bellabeat
 1. **Targeted Notifications:** Implement smart alerts reminding users to move during typical peak sedentary hours.
