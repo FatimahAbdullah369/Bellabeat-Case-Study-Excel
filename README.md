@@ -14,6 +14,7 @@ Analyze smart device usage data to understand how consumers use non-Bellabeat sm
 * **Microsoft Excel:** Data cleaning, formatting, Pivot Tables, and chart visualizations.
   ![Name of your chart](Merge1.png)
   ![Name of your chart](Merge2.png)
+  ![Name of your chart](Group_By.png)
 
 
 
@@ -30,9 +31,24 @@ Analyze smart device usage data to understand how consumers use non-Bellabeat sm
 
 *Figure 1: Excel Pivot Chart showing the correlation between daily step intervals and average minutes asleep.*
 
-![Activity vs Sleep Chart here](goodwalkgoodsleep.png)
+![Activity vs Sleep Chart here](more_steps_less_sleep.png)
+
 *Figur 2: Excel Pivot Chart showing the correlation between low step counts and poor sleep.*
 
-## Recommendations for Bellabeat
-1. **Targeted Notifications:** Implement smart alerts reminding users to move during typical peak sedentary hours.
-2. **Evening Engagement:** Market the Bellabeat watch as the perfect companion for evening routines and post-work stress relief.
+## Strategic Recommendations for Bellabeat
+
+Based on the insight that user sleep quality peaks at moderate activity levels and drops during extreme behaviors (sedentary lifestyle or over-exertion), Bellabeat should implement the following data-driven product and marketing strategies:
+
+### 1. Introduce a "Sleep & Activity Sweet Spot" Feature
+* **Action:** Program the Bellabeat app to calculate a personalized daily step target for each user based on their historical sleep data. 
+* **Impact:** Instead of pushing a generic 10,000-step goal, the app will guide users toward their specific "sweet spot" activity level to maximize restorative rest.
+
+### 2. Smart Alerts for "Over-Exertion" and "Inactivity"
+* **Action:** Use real-time data to send push notifications. 
+  * If a user is highly sedentary, trigger a gentle reminder to move to prevent poor sleep.
+  * If a user is approaching excessive workout thresholds late in the day, send a "Wind Down" alert suggesting yoga or meditation instead of intense exercise.
+
+### 3. Marketing Campaign: "Balance for Women's Wellness"
+* **Action:** Shift marketing narratives away from extreme fitness and toward holistic, balanced health. 
+* **Impact:** Position Bellabeat as a mindful companion that helps busy women prevent burnout, emphasizing that rest is just as productive as a workout.
+
